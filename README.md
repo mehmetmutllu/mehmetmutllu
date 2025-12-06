@@ -1,14 +1,11 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=336699&center=true&vCenter=true&width=600&lines=Hello,+I'm+Mehmet+Mutlu;Full+Stack+Developer+(Web+%26+Mobile);Flutter+Expert+%26+App+Store+Publisher;PHP+Backend+%26+REST+API+Architect" alt="Typing SVG" />
+![Header](https://capsule-render.vercel.app/api?type=waving&color=0:00c6ff,100:0072ff&height=220&section=header&text=Mehmet%20Mutlu&fontSize=60&animation=fadeIn&fontAlignY=38&descAlignY=55&descAlign=62&reloader=1)
 
 <br/>
 
-<h1 align="center">
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">
-  Mehmet Mutlu
-</h1>
-<h3 align="center">Web & Mobile Developer | Flutter & PHP</h3>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=336699&center=true&vCenter=true&width=600&lines=Full+Stack+Developer+(Web+%26+Mobile);Flutter+Expert+%26+App+Store+Publisher;PHP+Backend+%26+REST+API+Architect;Building+Live+Websites+%26+Mobile+Apps" alt="Typing SVG" />
+
 </div>
 
 ---
