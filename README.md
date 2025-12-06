@@ -39,18 +39,13 @@ I don't just write code; I ship live products. My expertise covers the full spec
 </div>
 <br clear="right">
 
----
-
-### 🛠️ Tech Stack
-
 ### 🛠️ Languages and Tools
 
 <div align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=flutter,dart,php,mysql,html,css,js,git,vscode,postman,github,linux&perline=6" />
+    <img src="https://skillicons.dev/icons?i=flutter,dart,php,mysql,c,java,html,css,js,git,vscode,postman,linux&perline=7" />
   </a>
 </div>
----
 
 ### 🌐 Connect with Me
 
