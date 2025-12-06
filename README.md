@@ -4,8 +4,11 @@
 
 <br/>
 
-![Header](https://capsule-render.vercel.app/api?type=waving&color=0:00c6ff,100:0072ff&height=200&section=header&text=Mehmet%20Mutlu&fontSize=50&animation=fadeIn&fontAlignY=38&desc=Building+Live+Websites+%26+Mobile+Apps&descAlignY=55&descAlign=62)
-
+<h1 align="center">
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">
+  Mehmet Mutlu
+</h1>
+<h3 align="center">Web & Mobile Developer | Flutter & PHP</h3>
 </div>
 
 ---
