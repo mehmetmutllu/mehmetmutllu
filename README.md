@@ -30,7 +30,6 @@ I don't just write code; I ship live products. My expertise covers the full spec
   <img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="200" align="right">
   
   <p align="left">
-  Don't let the empty squares fool you! 😅 <br><br>
   <b>90% of my work happens in Private Repositories.</b><br><br>
   I am actively developing commercial projects, managing live websites, and building client-based applications protected by NDAs. <br><br>
   Since I manage the full stack (API + Web + Mobile), my codebases are often proprietary and not visible to the public.<br><br>
