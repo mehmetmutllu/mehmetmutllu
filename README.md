@@ -1,61 +1,61 @@
-<div align="center">
+# Mehmet Mutlu
 
-![Header](https://capsule-render.vercel.app/api?type=waving&color=0:00c6ff,100:0072ff&height=220&section=header&text=Mehmet%20Mutlu&fontSize=60&animation=fadeIn&fontAlignY=38&descAlignY=55&descAlign=62&reloader=1)
+**Computer Engineer · Full-Stack Software Engineer · AI & Product Engineering**
 
-<br/>
+I build production web and mobile products end-to-end — backend, frontend, mobile and the AI tooling around them. Much of my work is private commercial software; the public repositories here focus on selected products, technical experiments and engineering workflows.
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=336699&center=true&vCenter=true&width=600&lines=Full+Stack+Developer+(Web+%26+Mobile);Flutter+Expert+%26+App+Store+Publisher;PHP+Backend+%26+REST+API+Architect;Building+Live+Websites+%26+Mobile+Apps" alt="Typing SVG" />
-
-</div>
+🌐 [mutlumehmet.com](https://mutlumehmet.com) · [LinkedIn](https://www.linkedin.com/in/mehmet-mutlu-181754298/)
 
 ---
 
-### 👨‍💻 About Me
+## What I Build
 
-Hi there! I'm **Mehmet**. I am a **Web & Mobile Developer** who bridges the gap between client-side beauty and server-side logic.
-
-I don't just write code; I ship live products. My expertise covers the full spectrum:
-* **Mobile:** Building advanced **Flutter** applications with complex architectures (Published on App Store).
-* **Web:** Developing live, dynamic websites.
-* **Backend:** Writing robust **PHP APIs** to power both web and mobile platforms.
-
-> 💡 *"From the database to the pixel, I control the entire flow."*
+- Full-stack web applications (PHP · MySQL · JavaScript/TypeScript)
+- Multi-tenant SaaS platforms
+- Mobile applications with Flutter (published on the App Store)
+- AI-powered products and automation
+- APIs and backend systems
+- AI-assisted software engineering workflows (Claude Code, persistent project context, automated browser testing)
 
 ---
 
-### 🚀 Why is my Contribution Graph so Quiet?
+## Selected Commercial Work
 
-<div align="center">
-  <br>
-  <img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="200" align="right">
-  
-  <p align="left">
-  <b>90% of my work happens in Private Repositories.</b><br><br>
-  I am actively developing commercial projects, managing live websites, and building client-based applications protected by NDAs. <br><br>
-  Since I manage the full stack (API + Web + Mobile), my codebases are often proprietary and not visible to the public.<br><br>
-  I am coding every day, just in "Stealth Mode". 👻
-  </p>
-</div>
-<br clear="right">
+> Source code for these projects is private due to client confidentiality and commercial ownership.
 
-### 🛠️ Languages and Tools
+### BizSiz
+Multi-tenant education management and coaching platform connecting institutions, teachers, coaches, students and parents — scheduling engine, attendance, one-on-one lesson quotas, coaching plans, multi-role panels. *Private commercial project.*
 
-<div align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=flutter,dart,php,mysql,c,java,html,css,js,git,vscode,postman,linux&perline=7" />
-  </a>
-</div>
+### Biledem Koçluk
+White-label deployment built on the BizSiz platform for a real education institution, including a branded mobile application. *Private commercial project.*
 
-### 🌐 Connect with Me
+### Pestoptan
+Production wholesale catalog & quotation platform (cleaning, food and cosmetics wholesale) with an admin panel and automated quote-to-email flow. *Private client project.*
 
-<div align="center">
+### SEY Silver
+Production luxury silver jewelry e-commerce platform. *Private client project.*
 
-<a href="https://mutlumehmet.com" target="_blank">
-  <img src="https://img.shields.io/badge/Website-mutlumehmet.com-00c6ff?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website"/>
-</a>
+### SolarDocsAI
+AI-powered document automation platform for German solar companies. *Private commercial project.*
 
-<a href="https://www.linkedin.com/in/mehmet-mutlu-181754298/" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-Mehmet_Mutlu-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-</a>
+### WatchSync AI
+Multi-service luxury watch inventory and multi-channel listing platform (Laravel API · Next.js dashboard · Python AI service). → [Public repository](https://github.com/mehmetmutllu/watchsync-ai)
 
-</div>
+---
+
+## Public Projects
+
+| Project | What it is |
+|---------|------------|
+| [AI Co-Founder Studio](https://github.com/mehmetmutllu/ai-co-founder-studio) | AI-assisted product planning studio — turns an idea into feasibility analysis, architecture and persistent development context files |
+| [WatchSync AI](https://github.com/mehmetmutllu/watchsync-ai) | Multi-service watch inventory & listing platform (Laravel + Next.js + FastAPI) |
+| [Kıraathane Tycoon](https://github.com/mehmetmutllu/kiraathane-tycoon) | 3D idle-tycoon mobile game — TypeScript, React Three Fiber, physics, prestige loop |
+| [Soru Dünyası](https://github.com/mehmetmutllu/soru-dunyasi) | Gamified quiz platform for Turkish national exams (YKS/LGS) |
+| [mutlumehmet.com](https://github.com/mehmetmutllu/mehmetportfolio) | Personal portfolio site — Next.js + Supabase |
+| [ChessGame](https://github.com/mehmetmutllu/ChessGame) | Java chess game built for a university computer networking course |
+
+---
+
+## How I Work with AI
+
+I use AI-assisted engineering as a core part of my workflow: persistent project context files (`CLAUDE.md`, `activeContext.md`, progress tracking), session-continuity protocols for large long-running codebases, automated browser testing with Playwright, and design-review loops. This lets a single engineer ship and maintain production systems that would normally require a team.
