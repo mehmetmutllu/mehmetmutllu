@@ -19,8 +19,8 @@ Agent output ships only after it passes automated tests and an independent revie
 
 ## Production work (private source)
 
-- **BizSiz** ([bizsizsoft.com](https://bizsizsoft.com)): multi-tenant education and coaching platform with institution, teacher, coach, student and parent panels. Tenant-level data isolation, 120+ versioned migrations, 20 GitHub Actions workflows (static analysis, migration lint, daily schema-drift check, gated production deploy with automatic rollback, anonymised staging refresh).
-- **SEY Silver** ([seysilver.com](https://seysilver.com)): e-commerce with iyzico 3D Secure and three shipping APIs. 180 Playwright E2E tests across 5 viewports and 3 browser engines run on every push.
+- **BizSiz** ([bizsizsoft.com](https://bizsizsoft.com)): multi-tenant education and coaching platform with institution, teacher, coach, student and parent panels. Tenant-level data isolation, 100+ migrations, 18 GitHub Actions workflows (static analysis, migration lint, daily schema-drift check, gated production deploy with automatic rollback, anonymised staging refresh).
+- **SEY Silver** ([seysilver.com](https://seysilver.com)): e-commerce with iyzico 3D Secure and three shipping APIs. 180 Playwright E2E tests covering cart, checkout, stock and returns across 8 viewports and 3 browser engines.
 - **İKRA Vakfı**, **Pes Toptan**, **Biledem**: production portals and catalogs (PHP 8 · MariaDB).
 
 Write-ups: [engineering-case-studies](https://github.com/mehmetmutllu/engineering-case-studies)
